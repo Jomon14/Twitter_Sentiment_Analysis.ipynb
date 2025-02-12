@@ -6,7 +6,8 @@ This project applies **Natural Language Processing (NLP)** techniques to analyze
 - **Text Preprocessing**: Cleans tweets by removing URLs, mentions, emojis, and punctuation.  
 - **Feature Extraction**: Converts text into numerical representations using **TF-IDF Vectorization**.  
 - **Sentiment Classification**: Uses a **Random Forest classifier** to categorize tweets as **positive, negative, or neutral**.  
-- **Evaluation Metrics**: Calculates **accuracy score** to measure model performance.  
+- **Evaluation Metrics**: Calculates **accuracy score** to measure model performance.
+- **Data Visualization**: Includes word clouds and sentiment distributions  
 
 ## 📂 Dataset  
 The dataset used is **"Twitter Entity Sentiment Analysis"** from **Kaggle**, containing labeled tweets with sentiment annotations.  
